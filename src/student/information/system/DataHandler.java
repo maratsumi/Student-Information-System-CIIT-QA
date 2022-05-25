@@ -19,7 +19,7 @@ public class DataHandler {
         public static Admin sampleAdmin;
         
         public static void createAdmin(){
-            sampleAdmin = new Admin("Mara", "Vitug", "Gue", "admin", "admin123");
+            sampleAdmin = new Admin("First Name", "Last Name", "Middle Name", "admin", "admin123");
         }
     }
     
